@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **PHP & Go**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **mahdi.zed2002@gmail.com**
 
