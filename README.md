@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdizare2002&label=Profile%20views&color=0e75b6&style=flat" alt="mahdizare2002" /> </p>
 
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP & Laravel**
 
 - 📫 How to reach me **mahdi.zed2002@gmail.com**
 
