@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdizare2002&label=Profile%20views&color=0e75b6&style=flat" alt="mahdizare2002" /> </p>
 
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **.Net Core**
 
 - 💬 Ask me about **PHP/Laravel**
 
